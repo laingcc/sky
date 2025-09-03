@@ -3,7 +3,6 @@ import mediapipe as mp
 import numpy as np
 import random
 import time
-import sounddevice as sd
 from particle import Particle
 from background_particle import BackgroundParticle
 from shooting_star import ShootingStar
