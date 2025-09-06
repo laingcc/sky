@@ -37,3 +37,7 @@ Move your hands in front of the webcam to see the particle effects. Press 'q' to
 ## How it Works
 
 The application captures video from your webcam and uses the MediaPipe library to detect the position of your hands. For each detected hand, it generates a stream of particles, creating a visual effect of stars and galaxies flowing from your fingertips. The background is a procedurally generated starfield with occasional shooting stars and UFOs to enhance the experience.
+
+## License
+
+This project is licensed under the terms of the GPL v3 license. See the [LICENSE](LICENSE) file for more details.
